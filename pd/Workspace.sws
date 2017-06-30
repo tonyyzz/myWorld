@@ -4,7 +4,8 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{885123CF-B17D-47BB-98E1-1D0DD1F73995}" Name="ObjectOrientedModel_2" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ObjectOrientedModel_2.oom"/>
+		<Model ID="{885123CF-B17D-47BB-98E1-1D0DD1F73995}" Name="ObjectOrientedModel_2" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ObjectOrientedModel_2.oom"/>
+		<Model Expanded="Yes" ID="{A581F444-3A53-469D-9346-4645BA55AF61}" Name="ObjectOrientedModel_3" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="ObjectOrientedModel_3.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
