@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{3213187E-F6B8-44B7-A6D6-6383C6A1687F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QRDemo/Program.cs">
+    <Files>
+      <File FileName="QRDemo/Properties/Demo/AliH5Pay.cs" Line="96" Column="4" />
+      <File FileName="QRDemo/Properties/Utils/ArgsSign.cs" Line="61" Column="24" />
+      <File FileName="QRDemo/Properties/Utils/XYEncryptionTool.cs" Line="116" Column="38" />
+      <File FileName="QRDemo/Properties/Utils/StrUtil.cs" Line="12" Column="23" />
+      <File FileName="QRDemo/Program.cs" Line="15" Column="4" />
+      <File FileName="QRDemo/Properties/Demo/AsynDemo.cs" Line="42" Column="13" />
+      <File FileName="QRDemo/Properties/Demo/QueryAccount.cs" Line="108" Column="39" />
+      <File FileName="QRDemo/Properties/Demo/QRPay.cs" Line="2" Column="1" />
+      <File FileName="QRDemo/Properties/Demo/Daifu.cs" Line="136" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="QRDemo/Properties/Demo/AliH5Pay.cs" line="45" offsetX="660" offsetY="660" expression="encryptData" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.QRDemo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

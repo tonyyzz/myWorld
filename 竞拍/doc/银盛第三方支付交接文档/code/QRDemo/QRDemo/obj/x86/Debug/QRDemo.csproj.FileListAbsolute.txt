@@ -1,0 +1,133 @@
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/QRDemo.exe
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/QRDemo.pdb
+/Users/ryeoxy/Projects/QRDemo/QRDemo/obj/x86/Debug/QRDemo.csproj.CoreCompileInputs.cache
+/Users/ryeoxy/Projects/QRDemo/QRDemo/obj/x86/Debug/QRDemo.exe
+/Users/ryeoxy/Projects/QRDemo/QRDemo/obj/x86/Debug/QRDemo.pdb
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/QRDemo.exe
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/QRDemo.pdb
+/Users/ys_xy/Desktop/QRDemo/QRDemo/obj/x86/Debug/QRDemo.csproj.CoreCompileInputs.cache
+/Users/ys_xy/Desktop/QRDemo/QRDemo/obj/x86/Debug/QRDemo.exe
+/Users/ys_xy/Desktop/QRDemo/QRDemo/obj/x86/Debug/QRDemo.pdb
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/Microsoft.Web.Infrastructure.dll
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.Helpers.dll
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.Mvc.dll
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.Razor.dll
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Deployment.dll
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.dll
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Razor.dll
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.Razor.xml
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.Helpers.xml
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Deployment.xml
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.xml
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Razor.xml
+/Users/ys_xy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.Mvc.xml
+/Users/ys_xy/Desktop/QRDemo/QRDemo/obj/x86/Debug/QRDemo.csprojResolveAssemblyReference.cache
+/Users/ryeoxy/Projects/QRDemo/QRDemo/obj/x86/Debug/QRDemo.csprojResolveAssemblyReference.cache
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/Microsoft.Web.Infrastructure.dll
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/System.Web.Helpers.dll
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/System.Web.Mvc.dll
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/System.Web.Razor.dll
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Deployment.dll
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.dll
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Razor.dll
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/System.Web.Razor.xml
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/System.Web.Helpers.xml
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Deployment.xml
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.xml
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Razor.xml
+/Users/ryeoxy/Projects/QRDemo/QRDemo/bin/Debug/System.Web.Mvc.xml
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/QRDemo.exe
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/QRDemo.pdb
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/Microsoft.Web.Infrastructure.dll
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.Helpers.dll
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.Mvc.dll
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.Razor.dll
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Deployment.dll
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.dll
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Razor.dll
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.Razor.xml
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.Helpers.xml
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Deployment.xml
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.xml
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Razor.xml
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/bin/Debug/System.Web.Mvc.xml
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/obj/x86/Debug/QRDemo.csprojResolveAssemblyReference.cache
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/obj/x86/Debug/QRDemo.csproj.CoreCompileInputs.cache
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/obj/x86/Debug/QRDemo.exe
+/Users/ryeoxy/Desktop/QRDemo/QRDemo/obj/x86/Debug/QRDemo.pdb
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/QRDemo.exe
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/QRDemo.pdb
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/Microsoft.Web.Infrastructure.dll
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/System.Web.Helpers.dll
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/System.Web.Mvc.dll
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/System.Web.Razor.dll
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Deployment.dll
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.dll
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Razor.dll
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/System.Web.Razor.xml
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/System.Web.Helpers.xml
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Deployment.xml
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.xml
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Razor.xml
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/bin/Debug/System.Web.Mvc.xml
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/obj/x86/Debug/QRDemo.csprojResolveAssemblyReference.cache
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/obj/x86/Debug/QRDemo.csproj.CoreCompileInputs.cache
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/obj/x86/Debug/QRDemo.exe
+/Users/ryeoxy/Desktop/支付SDK/C#/QRDemo/QRDemo/obj/x86/Debug/QRDemo.pdb
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/QRDemo.exe
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/QRDemo.pdb
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/Microsoft.Web.Infrastructure.dll
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/System.Web.Helpers.dll
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/System.Web.Mvc.dll
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/System.Web.Razor.dll
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Deployment.dll
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.dll
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Razor.dll
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/System.Web.Razor.xml
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/System.Web.Helpers.xml
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Deployment.xml
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.xml
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/System.Web.WebPages.Razor.xml
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/bin/Debug/System.Web.Mvc.xml
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/obj/x86/Debug/QRDemo.csprojResolveAssemblyReference.cache
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/obj/x86/Debug/QRDemo.csproj.CoreCompileInputs.cache
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/obj/x86/Debug/QRDemo.exe
+/Users/ryeoxy/Desktop/C#/QRDemo/QRDemo/obj/x86/Debug/QRDemo.pdb
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\QRDemo.exe
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\QRDemo.pdb
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\obj\x86\Debug\QRDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\obj\x86\Debug\QRDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\obj\x86\Debug\QRDemo.exe
+C:\Users\Administrator\Desktop\游汇通 开发文档\QRDemo\QRDemo\obj\x86\Debug\QRDemo.pdb
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\QRDemo.exe
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\QRDemo.pdb
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\bin\Debug\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\obj\x86\Debug\QRDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\obj\x86\Debug\QRDemo.exe
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\obj\x86\Debug\QRDemo.pdb
+C:\Users\Administrator\Desktop\银盛 游汇通 开发文档\QRDemo\QRDemo\obj\x86\Debug\QRDemo.csprojResolveAssemblyReference.cache
