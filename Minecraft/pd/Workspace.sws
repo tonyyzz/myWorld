@@ -4,9 +4,9 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model ID="{885123CF-B17D-47BB-98E1-1D0DD1F73995}" Name="ObjectOrientedModel_2" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ObjectOrientedModel_2.oom"/>
+		<Model ID="{885123CF-B17D-47BB-98E1-1D0DD1F73995}" Loaded="No" Name="ObjectOrientedModel_2" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ObjectOrientedModel_2.oom"/>
 		<Model Expanded="Yes" ID="{A581F444-3A53-469D-9346-4645BA55AF61}" Name="ObjectOrientedModel_3（以前）" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="ObjectOrientedModel_3.pdm"/>
-		<Model ID="{41A50D1E-188D-46AD-B0D8-D8E218DB408D}" Name="ObjectOrientedModel_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ObjectOrientedModel_1.oom"/>
+		<Model ID="{41A50D1E-188D-46AD-B0D8-D8E218DB408D}" Loaded="No" Name="ObjectOrientedModel_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ObjectOrientedModel_1.oom"/>
 		<Folder Expanded="Yes" Name="minecraft">
 			<Model Expanded="Yes" ID="{1C020F45-62CB-45B7-A91F-3237960EF157}" Name="Physical Data _1（）新版" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Physical Data _1.pdm"/>
 		</Folder>
